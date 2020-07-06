@@ -1,0 +1,812 @@
+fileFormatVersion: 2
+guid: 85e706ab29ef1f14ebfd6b56115cdef2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4348274752731900822
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_0
+  - first:
+      213: 3332061888848634232
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_1
+  - first:
+      213: -8025719549350483467
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_2
+  - first:
+      213: 1137041841327727781
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_3
+  - first:
+      213: 4502912462531569705
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_4
+  - first:
+      213: -5752389936954922055
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_5
+  - first:
+      213: 1512865625788314636
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_6
+  - first:
+      213: 7793100478985763156
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_7
+  - first:
+      213: 1570242615445995749
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_8
+  - first:
+      213: -7005146118823802420
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_9
+  - first:
+      213: 6778159244780167224
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_10
+  - first:
+      213: -8979789415099963582
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_11
+  - first:
+      213: 1695846195117675065
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_12
+  - first:
+      213: 8437034334821238386
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_13
+  - first:
+      213: 4444094585520317405
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_14
+  - first:
+      213: -5563685523308917643
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_15
+  - first:
+      213: -6253444890411551865
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_16
+  - first:
+      213: 8279116306177217418
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_17
+  - first:
+      213: -3811005990405313160
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_18
+  - first:
+      213: 7249731139371312582
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_19
+  - first:
+      213: 838003335107905729
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_20
+  - first:
+      213: -4714232720740363913
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_21
+  - first:
+      213: 6188007302998658815
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_22
+  - first:
+      213: -7252633272889287667
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_23
+  - first:
+      213: -7538707007123463533
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_24
+  - first:
+      213: -8313198006652213217
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_25
+  - first:
+      213: -673375171677976785
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_26
+  - first:
+      213: -7240547443458993277
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_27
+  - first:
+      213: -1724440334656203546
+    second: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 730
+        width: 192
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a649d998623d7a3c0800000000000000
+      internalID: -4348274752731900822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 730
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871a07642acdd3e20800000000000000
+      internalID: 3332061888848634232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 736
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f96e0a879aee9090800000000000000
+      internalID: -8025719549350483467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 736
+        width: 86
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a46817c78597cf00800000000000000
+      internalID: 1137041841327727781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_4
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 801
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928afd7f60f8d7e30800000000000000
+      internalID: 4502912462531569705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_5
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 732
+        width: 159
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb254e64d76b20b0800000000000000
+      internalID: -5752389936954922055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 730
+        width: 144
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04f20a6547cef410800000000000000
+      internalID: 1512865625788314636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 578
+        width: 200
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4597fd49897a62c60800000000000000
+      internalID: 7793100478985763156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 613
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0c6d8d65f9ac510800000000000000
+      internalID: 1570242615445995749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 546
+        width: 162
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc90dc348b8b8ce90800000000000000
+      internalID: -7005146118823802420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_10
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 578
+        width: 168
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830e620cbebd01e50800000000000000
+      internalID: 6778159244780167224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_11
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 578
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247672b9a11616380800000000000000
+      internalID: -8979789415099963582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_12
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 578
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932dfa5212bd88710800000000000000
+      internalID: 1695846195117675065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 346
+        width: 86
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2764bc4b60e561570800000000000000
+      internalID: 8437034334821238386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 346
+        width: 128
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3ec2eca789cad30800000000000000
+      internalID: 4444094585520317405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 346
+        width: 122
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c40358e71d9c2b0800000000000000
+      internalID: -5563685523308917643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 346
+        width: 104
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783b98c110d4739a0800000000000000
+      internalID: -6253444890411551865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_17
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 346
+        width: 61
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8356d37a6455e270800000000000000
+      internalID: 8279116306177217418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_18
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 346
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d61094e369c1bc0800000000000000
+      internalID: -3811005990405313160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_19
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 346
+        width: 103
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5a05f7f083c9460800000000000000
+      internalID: 7249731139371312582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 59
+        width: 88
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c803b5e79f21ab00800000000000000
+      internalID: 838003335107905729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_21
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 58
+        width: 97
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7715fbb415ea39eb0800000000000000
+      internalID: -4714232720740363913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_22
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 60
+        width: 142
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe02ca4bd730e550800000000000000
+      internalID: 6188007302998658815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 61
+        width: 170
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c5143e678795b90800000000000000
+      internalID: -7252633272889287667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_24
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 61
+        width: 103
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39268a63be1216790800000000000000
+      internalID: -7538707007123463533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_25
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 257
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18620a457691ac80800000000000000
+      internalID: -8313198006652213217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_26
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 61
+        width: 128
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27019b59d0b7a6f0800000000000000
+      internalID: -673375171677976785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_27
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 58
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38393455678648b90800000000000000
+      internalID: -7240547443458993277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dairy-products-milk-cheese-yoghurt-and-ice-cream-vector-26219832_28
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 58
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e41670f6ae8118e0800000000000000
+      internalID: -1724440334656203546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

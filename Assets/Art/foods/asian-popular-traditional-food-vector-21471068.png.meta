@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: f664688defb3fa0469405b0baffe70cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1147236965258737110
+    second: asian-popular-traditional-food-vector-21471068_0
+  - first:
+      213: 81123615675455319
+    second: asian-popular-traditional-food-vector-21471068_1
+  - first:
+      213: -3618769540713284821
+    second: asian-popular-traditional-food-vector-21471068_2
+  - first:
+      213: 199784604918936385
+    second: asian-popular-traditional-food-vector-21471068_3
+  - first:
+      213: -2369931975179849651
+    second: asian-popular-traditional-food-vector-21471068_4
+  - first:
+      213: 4981203120383577382
+    second: asian-popular-traditional-food-vector-21471068_5
+  - first:
+      213: -85904175305830964
+    second: asian-popular-traditional-food-vector-21471068_6
+  - first:
+      213: -5635807139700447216
+    second: asian-popular-traditional-food-vector-21471068_7
+  - first:
+      213: 6878086731207313276
+    second: asian-popular-traditional-food-vector-21471068_8
+  - first:
+      213: -4477111703634250213
+    second: asian-popular-traditional-food-vector-21471068_9
+  - first:
+      213: 5621521736404768622
+    second: asian-popular-traditional-food-vector-21471068_10
+  - first:
+      213: -7755064507065661478
+    second: asian-popular-traditional-food-vector-21471068_11
+  - first:
+      213: 1779592796621276509
+    second: asian-popular-traditional-food-vector-21471068_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: asian-popular-traditional-food-vector-21471068_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 728
+        width: 310
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a4e84fe023410f0800000000000000
+      internalID: -1147236965258737110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asian-popular-traditional-food-vector-21471068_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 729
+        width: 245
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7571b37af75302100800000000000000
+      internalID: 81123615675455319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asian-popular-traditional-food-vector-21471068_2
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 769
+        width: 214
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bf7c9964c87cdc0800000000000000
+      internalID: -3618769540713284821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asian-popular-traditional-food-vector-21471068_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 511
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143f8c72a07c5c200800000000000000
+      internalID: 199784604918936385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asian-popular-traditional-food-vector-21471068_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 508
+        width: 198
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40b09dcc6f4c1fd0800000000000000
+      internalID: -2369931975179849651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asian-popular-traditional-food-vector-21471068_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 456
+        width: 271
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dc780b8d9c02540800000000000000
+      internalID: 4981203120383577382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asian-popular-traditional-food-vector-21471068_6
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 564
+        width: 164
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd4c229b9ececef0800000000000000
+      internalID: -85904175305830964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asian-popular-traditional-food-vector-21471068_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 261
+        width: 223
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0186b87244799c1b0800000000000000
+      internalID: -5635807139700447216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asian-popular-traditional-food-vector-21471068_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 223
+        width: 345
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7780fbb07fd37f50800000000000000
+      internalID: 6878086731207313276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asian-popular-traditional-food-vector-21471068_9
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 226
+        width: 232
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16f22550aa1ed1c0800000000000000
+      internalID: -4477111703634250213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asian-popular-traditional-food-vector-21471068_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 273
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e671b833c38a30e40800000000000000
+      internalID: 5621521736404768622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asian-popular-traditional-food-vector-21471068_11
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 14
+        width: 210
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad78c1e3be9706490800000000000000
+      internalID: -7755064507065661478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asian-popular-traditional-food-vector-21471068_12
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 29
+        width: 253
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d558477483262b810800000000000000
+      internalID: 1779592796621276509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

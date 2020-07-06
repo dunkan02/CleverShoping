@@ -1,0 +1,602 @@
+fileFormatVersion: 2
+guid: e1d897f4cb6ebca44b5df4ea00b20aa0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6869676051946588321
+    second: sex-toys-dildo_0
+  - first:
+      213: 8716252829294337880
+    second: sex-toys-dildo_1
+  - first:
+      213: 529740495374076464
+    second: sex-toys-dildo_2
+  - first:
+      213: -3734440328659274932
+    second: sex-toys-dildo_3
+  - first:
+      213: 1698404636598299345
+    second: sex-toys-dildo_4
+  - first:
+      213: -6946859051565452798
+    second: sex-toys-dildo_5
+  - first:
+      213: -2212823353992934958
+    second: sex-toys-dildo_6
+  - first:
+      213: -4491294899612513032
+    second: sex-toys-dildo_7
+  - first:
+      213: 2460661606027232389
+    second: sex-toys-dildo_8
+  - first:
+      213: -1848415345610545333
+    second: sex-toys-dildo_9
+  - first:
+      213: 4429215503694853866
+    second: sex-toys-dildo_10
+  - first:
+      213: 2942556930026242427
+    second: sex-toys-dildo_11
+  - first:
+      213: -2871853785986709263
+    second: sex-toys-dildo_12
+  - first:
+      213: 1118313075080163466
+    second: sex-toys-dildo_13
+  - first:
+      213: -5926036569668242719
+    second: sex-toys-dildo_14
+  - first:
+      213: -3610078877851364257
+    second: sex-toys-dildo_15
+  - first:
+      213: 5757765282204267798
+    second: sex-toys-dildo_16
+  - first:
+      213: -6315381618698912534
+    second: sex-toys-dildo_17
+  - first:
+      213: -4970817530886854275
+    second: sex-toys-dildo_18
+  - first:
+      213: 8868363846045584526
+    second: sex-toys-dildo_19
+  - first:
+      213: -7245806822237576697
+    second: sex-toys-dildo_20
+  - first:
+      213: -8448500833363764459
+    second: sex-toys-dildo_21
+  - first:
+      213: -576570987130987809
+    second: sex-toys-dildo_22
+  - first:
+      213: -5577877723298668542
+    second: sex-toys-dildo_23
+  - first:
+      213: 8463423471006533647
+    second: sex-toys-dildo_24
+  - first:
+      213: 4294550522217392442
+    second: sex-toys-dildo_25
+  - first:
+      213: -5239599327329669135
+    second: sex-toys-dildo_26
+  - first:
+      213: 3114224430992084785
+    second: sex-toys-dildo_27
+  - first:
+      213: -56530484482445354
+    second: sex-toys-dildo_28
+  - first:
+      213: 8395929897355474190
+    second: sex-toys-dildo_29
+  - first:
+      213: -755084032410537700
+    second: sex-toys-dildo_30
+  - first:
+      213: 1820581276487606497
+    second: sex-toys-dildo_31
+  - first:
+      213: -7988630922783997933
+    second: sex-toys-dildo_32
+  - first:
+      213: -8516662605979412185
+    second: sex-toys-dildo_33
+  - first:
+      213: -3194459464691790313
+    second: sex-toys-dildo_34
+  - first:
+      213: -6351473606766244176
+    second: sex-toys-dildo_35
+  - first:
+      213: -8579256786438425029
+    second: sex-toys-dildo_0
+  - first:
+      213: 9003951291117343244
+    second: sex-toys-dildo_1
+  - first:
+      213: -1432828318401482392
+    second: sex-toys-dildo_2
+  - first:
+      213: 4624338595290326906
+    second: sex-toys-dildo_3
+  - first:
+      213: -5333701925534993035
+    second: sex-toys-dildo_4
+  - first:
+      213: 6796751930211190718
+    second: sex-toys-dildo_5
+  - first:
+      213: -7968066633641188310
+    second: sex-toys-dildo_6
+  - first:
+      213: 6063212869004530088
+    second: sex-toys-dildo_7
+  - first:
+      213: -2588923529248976585
+    second: sex-toys-dildo_8
+  - first:
+      213: -4402852512184784952
+    second: sex-toys-dildo_9
+  - first:
+      213: -3621402177703821597
+    second: sex-toys-dildo_10
+  - first:
+      213: 3326052319985311683
+    second: sex-toys-dildo_11
+  - first:
+      213: -2099157231345438926
+    second: sex-toys-dildo_12
+  - first:
+      213: 8123322542859305155
+    second: sex-toys-dildo_13
+  - first:
+      213: 4976660878111171884
+    second: sex-toys-dildo_14
+  - first:
+      213: -2767520532521470247
+    second: sex-toys-dildo_15
+  - first:
+      213: 7763522058146523916
+    second: sex-toys-dildo_16
+  - first:
+      213: -7177964836665891019
+    second: sex-toys-dildo_17
+  - first:
+      213: 6653974252630496396
+    second: sex-toys-dildo_18
+  - first:
+      213: -6490957626612772947
+    second: sex-toys-dildo_19
+  - first:
+      213: -1151019823012127053
+    second: sex-toys-dildo_20
+  - first:
+      213: 7957037369951816676
+    second: sex-toys-dildo_21
+  - first:
+      213: 6625262497463634478
+    second: sex-toys-dildo_22
+  - first:
+      213: 3326658162412522149
+    second: sex-toys-dildo_23
+  - first:
+      213: -301366461747075714
+    second: sex-toys-dildo_24
+  - first:
+      213: 4574304792471022690
+    second: sex-toys-dildo_25
+  - first:
+      213: -4861735652865766831
+    second: sex-toys-dildo_26
+  - first:
+      213: 8627994202080129583
+    second: sex-toys-dildo_27
+  - first:
+      213: -5922862700676109770
+    second: sex-toys-dildo_28
+  - first:
+      213: -2738693087904078820
+    second: sex-toys-dildo_29
+  - first:
+      213: -389395334236079672
+    second: sex-toys-dildo_30
+  - first:
+      213: 7630422212041592770
+    second: sex-toys-dildo_31
+  - first:
+      213: -8894868705757462203
+    second: sex-toys-dildo_32
+  - first:
+      213: -6866656942675105412
+    second: sex-toys-dildo_33
+  - first:
+      213: -4275386071773324001
+    second: sex-toys-dildo_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sex-toys-dildo_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 459
+        width: 168
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b367a77586b50f880800000000000000
+      internalID: -8579256786438425029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sex-toys-dildo_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 455
+        width: 96
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0218f98ef574fc70800000000000000
+      internalID: 9003951291117343244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sex-toys-dildo_4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 455
+        width: 73
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5757bae9b52eaf5b0800000000000000
+      internalID: -5333701925534993035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sex-toys-dildo_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 460
+        width: 103
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a19796eafbd42450800000000000000
+      internalID: 6063212869004530088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sex-toys-dildo_8
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 461
+        width: 127
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731d67054cb421cd0800000000000000
+      internalID: -2588923529248976585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sex-toys-dildo_12
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 456
+        width: 70
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f66f1be9b4ed2e0800000000000000
+      internalID: -2099157231345438926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sex-toys-dildo_14
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 461
+        width: 75
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25666f73b6a01540800000000000000
+      internalID: 4976660878111171884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sex-toys-dildo_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 56
+        width: 95
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beddefb191c600f0800000000000000
+      internalID: -1151019823012127053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sex-toys-dildo_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 57
+        width: 90
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a8909a329a1fb50800000000000000
+      internalID: 6625262497463634478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sex-toys-dildo_24
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 58
+        width: 106
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75695cbcc451dbf0800000000000000
+      internalID: -301366461747075714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sex-toys-dildo_27
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 55
+        width: 144
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22bd13830bccb770800000000000000
+      internalID: 8627994202080129583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sex-toys-dildo_28
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 62
+        width: 139
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a2ac021c3cdcda0800000000000000
+      internalID: -5922862700676109770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sex-toys-dildo_31
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 62
+        width: 101
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf4dfaf294b4e960800000000000000
+      internalID: 7630422212041592770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
