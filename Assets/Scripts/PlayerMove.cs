@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+[RequireComponent(typeof(Slider))]
 public class PlayerMove : MonoBehaviour
 {
     [SerializeField] private Player _player;
@@ -12,7 +13,7 @@ public class PlayerMove : MonoBehaviour
 
     private Slider _slider;
     private Cart _currentCart;
-    private float speed = 5f;
+    private float speedPlayer = 5f;
     private Vector3 direction;
 
     public Slider Slider => _slider;

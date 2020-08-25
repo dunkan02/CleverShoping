@@ -12,9 +12,6 @@ public class Spawner : MonoBehaviour
     [SerializeField] private List<GameObject> _goodTemplates;
     [SerializeField] private List<GameObject> _badTemplates;
 
-    private float _zCoordinate;
-    private float _xLeftPosition;
-    private float _xRightPosition;
     private Wave _currentWave;
     private int _currentWaveIndex = 0;
     private List<int> _markerProducts = new List<int>();
@@ -22,6 +19,7 @@ public class Spawner : MonoBehaviour
     private int _counterSpawnedGoodProduct = 0;
     private int _counterSpawnedBadProduct = 0;
     private float _timeStamp;
+    private Vector3 _startCoordinate;
 
     public event UnityAction<int, int> SpawnedGoodProduct;
     public event UnityAction<int, int> SpawnedBadProduct;
@@ -29,10 +27,7 @@ public class Spawner : MonoBehaviour
 
     private void Start()
     {
-        _zCoordinate = _player.transform.position.z;
-        _xLeftPosition = _leftPosition.position.x;
-        _xRightPosition = _rightPosition.position.x;
-
+        _startCoordinate = new Vector3(_leftPosition.position.x, _rightPosition.position.x, _player.transform.position.z);
         SetWave(0);
     }
 
@@ -46,12 +41,10 @@ public class Spawner : MonoBehaviour
                 switch (_markerProducts[_counterSpawnedProduct])
                 {
                     case 0:
-                        _counterSpawnedBadProduct++;
-                        SpawnedBadProduct?.Invoke(_counterSpawnedBadProduct, _currentWave.CountBadProducts);
+                        SpawnProduct(ref _counterSpawnedBadProduct, _currentWave.CountBadProducts, ref SpawnedBadProduct);
                         break;
                     case 1:
-                        _counterSpawnedGoodProduct++;
-                        SpawnedGoodProduct?.Invoke(_counterSpawnedGoodProduct, _currentWave.CountGoodProducts);
+                        SpawnProduct(ref _counterSpawnedGoodProduct, _currentWave.CountGoodProducts, ref SpawnedGoodProduct);
                         break;
                     default:
                         break;
@@ -67,6 +60,12 @@ public class Spawner : MonoBehaviour
         }
     }
 
+    private void SpawnProduct(ref int counterSpawnedProduct, int countProducts,  ref UnityAction<int,int> spawnedProduct)
+    {
+        counterSpawnedProduct++;
+        spawnedProduct?.Invoke(counterSpawnedProduct, countProducts);
+    }
+
     public void NextWave()
     {
         _currentWaveIndex++;
@@ -80,14 +79,14 @@ public class Spawner : MonoBehaviour
 
     private void Spawn(int typeProduct)
     {
-        float xCoordinate = Random.Range(_xLeftPosition, _xRightPosition);
+        float xCoordinate = Random.Range(_startCoordinate.x, _startCoordinate.y);
         switch (typeProduct)
         {
             case 0:
-                Instantiate(GetRandomProduct(typeProduct), new Vector3(xCoordinate, transform.position.y, _zCoordinate), Quaternion.identity);
+                Instantiate(GetRandomProduct(typeProduct), new Vector3(xCoordinate, transform.position.y, _startCoordinate.z), Quaternion.identity);
                 break;
             case 1:
-                Instantiate(GetRandomProduct(typeProduct), new Vector3(xCoordinate, transform.position.y, _zCoordinate), Quaternion.identity);
+                Instantiate(GetRandomProduct(typeProduct), new Vector3(xCoordinate, transform.position.y, _startCoordinate.z), Quaternion.identity);
                 break;
             default:
                 return;
